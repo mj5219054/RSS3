@@ -203,3 +203,7 @@ Project Link: [https://github.com/NaturalSelectionLabs/RSS3](https://github.com/
 [telegram-url]: https://t.me/joinchat/jhhncmdayvNlMDgx
 [discord-shield]: https://img.shields.io/badge/Discord-Server-blueviolet?style=flat-square&logo=discord
 [discord-url]: https://bit.ly/3aSYvPA
+
+# 关于我自己想法
+[信息社交产品](https://github.com/mj5219054/RSS3/blob/main/journal/READM.md)
+
